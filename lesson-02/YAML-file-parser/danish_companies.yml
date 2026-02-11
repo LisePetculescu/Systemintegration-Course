@@ -1,0 +1,791 @@
+- cvr: '78836568'
+  name: Dansk Consult ApS & Co.
+  street: Parkvej
+  number: '123'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info0@dansk.dk
+- cvr: '67982862'
+  name: Viking IT IVS
+  street: Torvegade
+  number: '132'
+  postal_code: '3400'
+  city: Hillerød
+  email: info1@viking.dk
+- cvr: '97863387'
+  name: Københavns Solutions IVS
+  street: Søndergade
+  number: '114'
+  postal_code: '6000'
+  city: Kolding
+  email: info2@københavns.dk
+- cvr: '42148903'
+  name: Jysk IT IVS
+  street: Nørregade
+  number: '145'
+  postal_code: '6000'
+  city: Kolding
+  email: info3@jysk.dk
+- cvr: '84488399'
+  name: Dansk Solutions ApS
+  street: Vestergade
+  number: '121'
+  postal_code: '8000'
+  city: Aarhus
+  email: info4@dansk.dk
+- cvr: '75017468'
+  name: Dansk IT A/S
+  street: Torvegade
+  number: '105'
+  postal_code: '5000'
+  city: Odense
+  email: info5@dansk.dk
+- cvr: '24005714'
+  name: Jysk Byg ApS
+  street: Østergade
+  number: '88'
+  postal_code: '3400'
+  city: Hillerød
+  email: info6@jysk.dk
+- cvr: '22495827'
+  name: Nordic Handel ApS
+  street: Hovedgaden
+  number: '138'
+  postal_code: '7100'
+  city: Vejle
+  email: info7@nordic.dk
+- cvr: '49238393'
+  name: Nordic Handel ApS & Co.
+  street: Strandvejen
+  number: '68'
+  postal_code: '6200'
+  city: Aabenraa
+  email: info8@nordic.dk
+- cvr: '83470230'
+  name: Viking Byg IVS
+  street: Østergade
+  number: '117'
+  postal_code: '3400'
+  city: Hillerød
+  email: info9@viking.dk
+- cvr: '10638674'
+  name: Viking Byg IVS
+  street: Østergade
+  number: '84'
+  postal_code: '6000'
+  city: Kolding
+  email: info10@viking.dk
+- cvr: '40937621'
+  name: Fyns Teknik ApS
+  street: Torvegade
+  number: '66'
+  postal_code: '9800'
+  city: Hjørring
+  email: info11@fyns.dk
+- cvr: '88330481'
+  name: Viking IT A/S
+  street: Torvegade
+  number: '116'
+  postal_code: '1000'
+  city: København
+  email: info12@viking.dk
+- cvr: '51801262'
+  name: Københavns Teknik IVS
+  street: Parkvej
+  number: '133'
+  postal_code: '3400'
+  city: Hillerød
+  email: info13@københavns.dk
+- cvr: '13936548'
+  name: Nordic Solutions A/S
+  street: Søndergade
+  number: '86'
+  postal_code: '5000'
+  city: Odense
+  email: info14@nordic.dk
+- cvr: '72033204'
+  name: Københavns Consult ApS
+  street: Parkvej
+  number: '125'
+  postal_code: '9000'
+  city: Aalborg
+  email: info15@københavns.dk
+- cvr: '39987846'
+  name: Øresund Foods ApS
+  street: Vestergade
+  number: '52'
+  postal_code: '9800'
+  city: Hjørring
+  email: info16@øresund.dk
+- cvr: '83139141'
+  name: Dansk IT IVS
+  street: Skolegade
+  number: '44'
+  postal_code: '1000'
+  city: København
+  email: info17@dansk.dk
+- cvr: '95835582'
+  name: Øresund Byg ApS
+  street: Hovedgaden
+  number: '104'
+  postal_code: '7100'
+  city: Vejle
+  email: info18@øresund.dk
+- cvr: '61944233'
+  name: Nordic Consult IVS
+  street: Parkvej
+  number: '36'
+  postal_code: '9000'
+  city: Aalborg
+  email: info19@nordic.dk
+- cvr: '90831163'
+  name: Skandi Byg ApS
+  street: Nørregade
+  number: '95'
+  postal_code: '5000'
+  city: Odense
+  email: info20@skandi.dk
+- cvr: '78502514'
+  name: Dansk Solutions A/S
+  street: Hovedgaden
+  number: '4'
+  postal_code: '9000'
+  city: Aalborg
+  email: info21@dansk.dk
+- cvr: '95092230'
+  name: Fyns Consult A/S
+  street: Skolegade
+  number: '14'
+  postal_code: '3400'
+  city: Hillerød
+  email: info22@fyns.dk
+- cvr: '37840648'
+  name: Skandi Solutions A/S
+  street: Hovedgaden
+  number: '125'
+  postal_code: '3400'
+  city: Hillerød
+  email: info23@skandi.dk
+- cvr: '43434630'
+  name: Viking IT IVS
+  street: Torvegade
+  number: '38'
+  postal_code: '6200'
+  city: Aabenraa
+  email: info24@viking.dk
+- cvr: '12330350'
+  name: Øresund Group IVS
+  street: Søndergade
+  number: '69'
+  postal_code: '7100'
+  city: Vejle
+  email: info25@øresund.dk
+- cvr: '78454054'
+  name: Dansk Teknik A/S
+  street: Søndergade
+  number: '56'
+  postal_code: '6200'
+  city: Aabenraa
+  email: info26@dansk.dk
+- cvr: '46995117'
+  name: Københavns IT IVS
+  street: Vestergade
+  number: '52'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info27@københavns.dk
+- cvr: '39530788'
+  name: Fyns Teknik ApS
+  street: Parkvej
+  number: '148'
+  postal_code: '7100'
+  city: Vejle
+  email: info28@fyns.dk
+- cvr: '14545663'
+  name: Jysk Teknik IVS
+  street: Strandvejen
+  number: '82'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info29@jysk.dk
+- cvr: '85418120'
+  name: Nordic Foods IVS
+  street: Hovedgaden
+  number: '67'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info30@nordic.dk
+- cvr: '78204997'
+  name: Viking Foods ApS
+  street: Østergade
+  number: '142'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info31@viking.dk
+- cvr: '71214481'
+  name: Viking Group IVS
+  street: Parkvej
+  number: '100'
+  postal_code: '9000'
+  city: Aalborg
+  email: info32@viking.dk
+- cvr: '17292603'
+  name: Skandi Handel IVS
+  street: Skolegade
+  number: '83'
+  postal_code: '6000'
+  city: Kolding
+  email: info33@skandi.dk
+- cvr: '67788809'
+  name: Jysk Solutions A/S
+  street: Parkvej
+  number: '110'
+  postal_code: '6000'
+  city: Kolding
+  email: info34@jysk.dk
+- cvr: '87262965'
+  name: Fyns Consult ApS & Co.
+  street: Skolegade
+  number: '53'
+  postal_code: '8000'
+  city: Aarhus
+  email: info35@fyns.dk
+- cvr: '47273989'
+  name: Jysk Group ApS & Co.
+  street: Hovedgaden
+  number: '121'
+  postal_code: '7100'
+  city: Vejle
+  email: info36@jysk.dk
+- cvr: '31965291'
+  name: Øresund Handel IVS
+  street: Nørregade
+  number: '99'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info37@øresund.dk
+- cvr: '85353219'
+  name: Skandi IT ApS
+  street: Torvegade
+  number: '47'
+  postal_code: '1000'
+  city: København
+  email: info38@skandi.dk
+- cvr: '65606191'
+  name: Dansk Group A/S
+  street: Østergade
+  number: '67'
+  postal_code: '1000'
+  city: København
+  email: info39@dansk.dk
+- cvr: '52358887'
+  name: Jysk IT A/S
+  street: Torvegade
+  number: '19'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info40@jysk.dk
+- cvr: '76384027'
+  name: Dansk Solutions ApS & Co.
+  street: Vestergade
+  number: '20'
+  postal_code: '1000'
+  city: København
+  email: info41@dansk.dk
+- cvr: '43135430'
+  name: Nordic Consult IVS
+  street: Østergade
+  number: '136'
+  postal_code: '9000'
+  city: Aalborg
+  email: info42@nordic.dk
+- cvr: '58173002'
+  name: Øresund Consult ApS
+  street: Søndergade
+  number: '14'
+  postal_code: '6000'
+  city: Kolding
+  email: info43@øresund.dk
+- cvr: '37132711'
+  name: Viking Solutions A/S
+  street: Hovedgaden
+  number: '27'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info44@viking.dk
+- cvr: '31841913'
+  name: Fyns Group ApS
+  street: Strandvejen
+  number: '44'
+  postal_code: '8000'
+  city: Aarhus
+  email: info45@fyns.dk
+- cvr: '38416577'
+  name: Jysk Handel ApS
+  street: Skolegade
+  number: '21'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info46@jysk.dk
+- cvr: '14648039'
+  name: Københavns IT ApS & Co.
+  street: Skolegade
+  number: '109'
+  postal_code: '3400'
+  city: Hillerød
+  email: info47@københavns.dk
+- cvr: '43505290'
+  name: Jysk Handel ApS & Co.
+  street: Østergade
+  number: '51'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info48@jysk.dk
+- cvr: '84411986'
+  name: Københavns Group A/S
+  street: Søndergade
+  number: '109'
+  postal_code: '9800'
+  city: Hjørring
+  email: info49@københavns.dk
+- cvr: '62522728'
+  name: Viking Byg ApS
+  street: Torvegade
+  number: '58'
+  postal_code: '3400'
+  city: Hillerød
+  email: info50@viking.dk
+- cvr: '55075333'
+  name: Fyns Solutions ApS
+  street: Hovedgaden
+  number: '13'
+  postal_code: '5000'
+  city: Odense
+  email: info51@fyns.dk
+- cvr: '88435108'
+  name: Øresund Group ApS & Co.
+  street: Østergade
+  number: '131'
+  postal_code: '5000'
+  city: Odense
+  email: info52@øresund.dk
+- cvr: '62631988'
+  name: Fyns Handel A/S
+  street: Vestergade
+  number: '150'
+  postal_code: '7100'
+  city: Vejle
+  email: info53@fyns.dk
+- cvr: '93201515'
+  name: Nordic IT ApS
+  street: Vestergade
+  number: '109'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info54@nordic.dk
+- cvr: '98705304'
+  name: Nordic Solutions ApS
+  street: Nørregade
+  number: '51'
+  postal_code: '9800'
+  city: Hjørring
+  email: info55@nordic.dk
+- cvr: '70152057'
+  name: Øresund Teknik A/S
+  street: Østergade
+  number: '69'
+  postal_code: '9800'
+  city: Hjørring
+  email: info56@øresund.dk
+- cvr: '14197001'
+  name: Jysk Solutions IVS
+  street: Nørregade
+  number: '124'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info57@jysk.dk
+- cvr: '81638118'
+  name: Skandi Group ApS
+  street: Østergade
+  number: '123'
+  postal_code: '9000'
+  city: Aalborg
+  email: info58@skandi.dk
+- cvr: '17522930'
+  name: Fyns IT A/S
+  street: Strandvejen
+  number: '76'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info59@fyns.dk
+- cvr: '44664996'
+  name: Jysk Group ApS
+  street: Hovedgaden
+  number: '22'
+  postal_code: '6200'
+  city: Aabenraa
+  email: info60@jysk.dk
+- cvr: '61992102'
+  name: Dansk IT ApS & Co.
+  street: Skolegade
+  number: '10'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info61@dansk.dk
+- cvr: '25601523'
+  name: Skandi Teknik IVS
+  street: Hovedgaden
+  number: '145'
+  postal_code: '8000'
+  city: Aarhus
+  email: info62@skandi.dk
+- cvr: '87284623'
+  name: Dansk Foods ApS & Co.
+  street: Torvegade
+  number: '117'
+  postal_code: '8000'
+  city: Aarhus
+  email: info63@dansk.dk
+- cvr: '38259812'
+  name: Dansk IT ApS & Co.
+  street: Østergade
+  number: '1'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info64@dansk.dk
+- cvr: '31029330'
+  name: Øresund Group ApS & Co.
+  street: Vestergade
+  number: '102'
+  postal_code: '8000'
+  city: Aarhus
+  email: info65@øresund.dk
+- cvr: '38425834'
+  name: Øresund IT IVS
+  street: Hovedgaden
+  number: '11'
+  postal_code: '1000'
+  city: København
+  email: info66@øresund.dk
+- cvr: '15904677'
+  name: Nordic Solutions IVS
+  street: Nørregade
+  number: '23'
+  postal_code: '9000'
+  city: Aalborg
+  email: info67@nordic.dk
+- cvr: '85152334'
+  name: Skandi Teknik ApS
+  street: Nørregade
+  number: '84'
+  postal_code: '8000'
+  city: Aarhus
+  email: info68@skandi.dk
+- cvr: '10835558'
+  name: Viking Teknik IVS
+  street: Østergade
+  number: '8'
+  postal_code: '1000'
+  city: København
+  email: info69@viking.dk
+- cvr: '38605655'
+  name: Nordic Solutions A/S
+  street: Hovedgaden
+  number: '45'
+  postal_code: '8000'
+  city: Aarhus
+  email: info70@nordic.dk
+- cvr: '91297602'
+  name: Dansk Solutions ApS & Co.
+  street: Nørregade
+  number: '61'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info71@dansk.dk
+- cvr: '83608228'
+  name: Københavns IT ApS & Co.
+  street: Hovedgaden
+  number: '25'
+  postal_code: '6000'
+  city: Kolding
+  email: info72@københavns.dk
+- cvr: '64462480'
+  name: Øresund Solutions A/S
+  street: Parkvej
+  number: '125'
+  postal_code: '1000'
+  city: København
+  email: info73@øresund.dk
+- cvr: '17671102'
+  name: Nordic Foods A/S
+  street: Søndergade
+  number: '139'
+  postal_code: '8000'
+  city: Aarhus
+  email: info74@nordic.dk
+- cvr: '79075815'
+  name: Fyns Consult ApS & Co.
+  street: Torvegade
+  number: '71'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info75@fyns.dk
+- cvr: '28742859'
+  name: Skandi Solutions ApS & Co.
+  street: Nørregade
+  number: '74'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info76@skandi.dk
+- cvr: '91663214'
+  name: Skandi IT ApS & Co.
+  street: Skolegade
+  number: '45'
+  postal_code: '7100'
+  city: Vejle
+  email: info77@skandi.dk
+- cvr: '25320735'
+  name: Københavns Solutions A/S
+  street: Torvegade
+  number: '86'
+  postal_code: '3400'
+  city: Hillerød
+  email: info78@københavns.dk
+- cvr: '72440143'
+  name: Nordic IT A/S
+  street: Østergade
+  number: '25'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info79@nordic.dk
+- cvr: '56142652'
+  name: Jysk Consult ApS
+  street: Vestergade
+  number: '105'
+  postal_code: '1000'
+  city: København
+  email: info80@jysk.dk
+- cvr: '81079540'
+  name: Fyns Foods IVS
+  street: Hovedgaden
+  number: '88'
+  postal_code: '3400'
+  city: Hillerød
+  email: info81@fyns.dk
+- cvr: '19727549'
+  name: Københavns Teknik IVS
+  street: Strandvejen
+  number: '6'
+  postal_code: '3400'
+  city: Hillerød
+  email: info82@københavns.dk
+- cvr: '11872918'
+  name: Københavns Solutions ApS & Co.
+  street: Parkvej
+  number: '54'
+  postal_code: '9800'
+  city: Hjørring
+  email: info83@københavns.dk
+- cvr: '57249510'
+  name: Jysk Teknik IVS
+  street: Vestergade
+  number: '141'
+  postal_code: '1000'
+  city: København
+  email: info84@jysk.dk
+- cvr: '91074205'
+  name: Dansk Handel ApS
+  street: Vestergade
+  number: '94'
+  postal_code: '1000'
+  city: København
+  email: info85@dansk.dk
+- cvr: '18921849'
+  name: Skandi Teknik ApS & Co.
+  street: Torvegade
+  number: '35'
+  postal_code: '5000'
+  city: Odense
+  email: info86@skandi.dk
+- cvr: '80242339'
+  name: Dansk Teknik IVS
+  street: Søndergade
+  number: '24'
+  postal_code: '5000'
+  city: Odense
+  email: info87@dansk.dk
+- cvr: '69079595'
+  name: Københavns Byg ApS & Co.
+  street: Skolegade
+  number: '52'
+  postal_code: '1000'
+  city: København
+  email: info88@københavns.dk
+- cvr: '93485105'
+  name: Jysk Byg ApS & Co.
+  street: Torvegade
+  number: '40'
+  postal_code: '1000'
+  city: København
+  email: info89@jysk.dk
+- cvr: '40028862'
+  name: Skandi IT IVS
+  street: Skolegade
+  number: '33'
+  postal_code: '7100'
+  city: Vejle
+  email: info90@skandi.dk
+- cvr: '57518715'
+  name: Københavns Group ApS & Co.
+  street: Søndergade
+  number: '65'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info91@københavns.dk
+- cvr: '92364091'
+  name: Skandi Foods A/S
+  street: Vestergade
+  number: '75'
+  postal_code: '6000'
+  city: Kolding
+  email: info92@skandi.dk
+- cvr: '18165275'
+  name: Fyns Foods IVS
+  street: Parkvej
+  number: '12'
+  postal_code: '1000'
+  city: København
+  email: info93@fyns.dk
+- cvr: '39307403'
+  name: Jysk IT A/S
+  street: Parkvej
+  number: '120'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info94@jysk.dk
+- cvr: '46207982'
+  name: Dansk IT ApS
+  street: Strandvejen
+  number: '50'
+  postal_code: '7100'
+  city: Vejle
+  email: info95@dansk.dk
+- cvr: '38211305'
+  name: Fyns Group ApS & Co.
+  street: Parkvej
+  number: '62'
+  postal_code: '1000'
+  city: København
+  email: info96@fyns.dk
+- cvr: '97705303'
+  name: Fyns Foods ApS & Co.
+  street: Vestergade
+  number: '40'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info97@fyns.dk
+- cvr: '87324110'
+  name: Fyns Teknik ApS
+  street: Søndergade
+  number: '44'
+  postal_code: '5000'
+  city: Odense
+  email: info98@fyns.dk
+- cvr: '57671611'
+  name: Viking Handel ApS
+  street: Østergade
+  number: '12'
+  postal_code: '9000'
+  city: Aalborg
+  email: info99@viking.dk
+- cvr: '73048976'
+  name: Dansk Consult IVS
+  street: Hovedgaden
+  number: '38'
+  postal_code: '6000'
+  city: Kolding
+  email: info100@dansk.dk
+- cvr: '88064487'
+  name: Øresund Solutions IVS
+  street: Skolegade
+  number: '36'
+  postal_code: '6000'
+  city: Kolding
+  email: info101@øresund.dk
+- cvr: '19836362'
+  name: Københavns Group A/S
+  street: Hovedgaden
+  number: '55'
+  postal_code: '7100'
+  city: Vejle
+  email: info102@københavns.dk
+- cvr: '18274971'
+  name: Skandi Group ApS
+  street: Skolegade
+  number: '83'
+  postal_code: '4760'
+  city: Vordingborg
+  email: info103@skandi.dk
+- cvr: '60035432'
+  name: Øresund Byg IVS
+  street: Hovedgaden
+  number: '56'
+  postal_code: '4800'
+  city: Nykøbing Falster
+  email: info104@øresund.dk
+- cvr: '10633801'
+  name: Københavns Consult IVS
+  street: Østergade
+  number: '29'
+  postal_code: '6000'
+  city: Kolding
+  email: info105@københavns.dk
+- cvr: '13458872'
+  name: Dansk Handel ApS & Co.
+  street: Nørregade
+  number: '91'
+  postal_code: '8000'
+  city: Aarhus
+  email: info106@dansk.dk
+- cvr: '86759857'
+  name: Viking Group IVS
+  street: Vestergade
+  number: '8'
+  postal_code: '9800'
+  city: Hjørring
+  email: info107@viking.dk
+- cvr: '25494306'
+  name: Københavns Handel ApS & Co.
+  street: Vestergade
+  number: '14'
+  postal_code: '6700'
+  city: Esbjerg
+  email: info108@københavns.dk
+- cvr: '65299005'
+  name: Dansk Byg IVS
+  street: Hovedgaden
+  number: '143'
+  postal_code: '6000'
+  city: Kolding
+  email: info109@dansk.dk
+- cvr: '78664937'
+  name: Skandi Consult ApS & Co.
+  street: Nørregade
+  number: '50'
+  postal_code: '1000'
+  city: København
+  email: info110@skandi.dk
+- cvr: '78905044'
+  name: Fyns Consult IVS
+  street: Skolegade
+  number: '41'
+  postal_code: '1000'
+  city: København
+  email: info111@fyns.dk
+- cvr: '20598488'
+  name: Nordic Handel IVS
+  street: Skolegade
+  number: '128'
+  postal_code: '8000'
+  city: Aarhus
+  email: info112@nordic.dk
