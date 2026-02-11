@@ -51,8 +51,8 @@ function parseFile(filecontent) {
     return obj;
   });
 
-  // console.log(parsedFile);
-  console.log(JSON.stringify(parsedFile, null, 2));
+  console.log(parsedFile);
+  // console.log(JSON.stringify(parsedFile, null, 2));
 
   return JSON.stringify(parsedFile, null, 2);
 }
