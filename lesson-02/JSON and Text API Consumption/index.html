@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Repo Browser</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>GitHub Repo Browser</h1>
+
+  <section class="panel">
+    <h2>User</h2>
+    <label>
+      GitHub Username:
+      <input id="usernameInput" type="text" placeholder="e.g. arturomorarioja" />
+    </label>
+    <button id="loadReposBtn">Load Repos</button>
+  </section>
+
+  <section class="panel">
+    <h2>Repos</h2>
+    <label>
+      Repo name (optional):
+      <input id="repoInput" type="text" placeholder="e.g. customers_api" />
+    </label>
+    <button id="loadRepoBtn">Load Repo Files</button>
+    <ul id="reposList"></ul>
+  </section>
+
+  <section class="panel">
+    <h2>Files</h2>
+    <label>
+      File path (optional):
+      <input id="fileInput" type="text" placeholder="e.g. customers/customers.sql" />
+    </label>
+    <button id="loadFileBtn">Load File Content</button>
+    <ul id="filesList"></ul>
+  </section>
+
+  <section class="panel">
+    <h2>File Content</h2>
+    <pre id="fileContent"></pre>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

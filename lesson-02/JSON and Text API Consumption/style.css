@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  max-width: 900px;
+  background-color: #1b1c1c;
+  color: #ddd;
+}
+
+.panel {
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin: 6px 0;
+  /* cursor: pointer; */
+  color: #358045;
+}
+
+li:hover {
+  /* text-decoration: underline; */
+  color: #3e9951;
+  font-weight: 600;
+}
+
+pre {
+  background: #1b1c1c;
+  padding: 12px;
+  border-radius: 6px;
+  overflow: auto;
+}
