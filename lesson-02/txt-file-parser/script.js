@@ -3,15 +3,19 @@ import { readFile } from 'fs/promises';
 // to run it, go to 'txt-file-parser' folder in terminal and run "node script.js"
 
 const fileName = 'danish_companies.txt'
-async function start() {
+async function start(file) {
 
-    const textToParse = await fetchFile('danish_companies.txt')
+    // const textToParse = await readTxtFile('danish_companies.txt');
+    const textToParse = await readTxtFile(file);
 
     console.log(parseFile(textToParse));
+    const jsonContent = parseFile(textToParse);
+
+    return jsonContent;
 }
 
 
-async function fetchFile(file) {
+async function readTxtFile(file) {
     try {
         const textFromFile = await readFile(file, 'utf8');
         // console.log(textFromFile);
@@ -43,4 +47,4 @@ function parseFile(textToParse) {
 
 }
 
-start()
+start(fileName);
