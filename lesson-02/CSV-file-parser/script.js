@@ -3,7 +3,8 @@ import { readFile } from "fs/promises";
 // Header row:
 // cvr,name,street,number,postal_code,city,email
 
-const filename = "danish_companies.csv";
+// const filename = "danish_companies.csv";
+const filename = "CSV-file-parser/danish_companies.csv";
 
 async function start(file) {
   console.log("CSV parser starting...");

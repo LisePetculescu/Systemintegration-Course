@@ -2,7 +2,7 @@ import { readFile } from 'fs/promises';
 
 // to run it, go to 'txt-file-parser' folder in terminal and run "node script.js"
 
-const fileName = 'danish_companies.txt'
+const fileName = 'txt-file-parser/danish_companies.txt'
 async function start(file) {
 
     // const textToParse = await readTxtFile('danish_companies.txt');

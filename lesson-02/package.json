@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "scripts": {
+        "csvParser": "node CSV-file-parser/script.js",
+        "yamlParser": "node YAML-file-parser/script.js",
+        "txtParser": "node txt-file-parser/script.js"
+    }
+}

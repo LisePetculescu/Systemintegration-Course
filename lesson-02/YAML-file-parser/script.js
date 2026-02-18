@@ -2,7 +2,7 @@ import { log } from "console";
 import { readFile } from "fs/promises";
 import { parse } from "url";
 
-const filename = "danish_companies.yml";
+const filename = "YAML-file-parser/danish_companies.yml";
 
 async function start(file) {
   console.log("YAML parser starting...");
