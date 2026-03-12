@@ -8,6 +8,30 @@ schema {
     mutation: Mutation
 }
 
+## Queries
+
+type Query {
+    # Movie by ID
+    movie(id: ID!): Movie
+    # Movies by genre and average rating
+    movies(genre: Genre, minRating: rating): [Movie!]!
+    # Users
+    users: [User!]!
+}
+
+
+## Mutations
+
+type Mutation {
+    # Add movie (parameters: title, genre, duration in minutes)
+    addMovie(
+        title: String!
+        genre: Genre!
+        durationInMinutes: Int!
+    ): Movie!
+}
+
+
 
 ## Models: (--> = type)
 
@@ -17,9 +41,9 @@ type Movie {
     title: String!
     genre: Genre!
     durationInMinutes: Int!
-    averageRating: Float
+    rating: Float
     isAvailable: Boolean
-    details: MovieDetails
+    details: MovieDetails!
     cast: [Person!]
 }
 
@@ -61,28 +85,6 @@ enum Genre {
 }
 
 
-## Queries
-
-type Query {
-    # Movie by ID
-    movie(id: ID!): Movie!
-    # Movies by genre and average rating
-    movies(genre: Genre, averageRating: averageRating): [Movie!]!
-    # Users
-    users: [User!]!
-}
-
-
-## Mutations
-
-type Mutation {
-    # Add movie (parameters: title, genre, duration in minutes)
-    addMovie(
-        title: String!
-        genre: Genre!
-        durationInMinutes: Int!
-    )
-}
 
 
 
