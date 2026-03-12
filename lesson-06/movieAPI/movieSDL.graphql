@@ -1,0 +1,101 @@
+
+### SDL for Movie Streaming
+
+## Write a GraphQL SDL for a movie streaming platform with the following requirements:
+
+schema {
+    query: Query
+    mutation: Mutation
+}
+
+
+## Models: (--> = type)
+
+# Movie (id, title, genre, duration in minutes, average rating, is available, details, cast)
+type Movie {
+    id: ID!
+    title: String!
+    genre: Genre!
+    durationInMinutes: Int!
+    averageRating: Float
+    isAvailable: Boolean
+    details: MovieDetails
+    cast: [Person!]
+}
+
+# Movie details (release year, language, age rating -e.g., "PG-13")
+type MovieDetails {
+    releaseYear: Int!
+    language: String!
+    ageRating: String! # e.g. "PG-13"
+}
+
+
+# Person (id, name, role)
+type Person {
+    id: ID!
+    name: String
+    role: String 
+}
+
+
+# User (id, username, email, has subscription, favourite movies)
+type User {
+    id: ID!
+    username: String!
+    email: String!
+    hasSubscription: Boolean!
+    favouriteMovies: [Movie!]!
+}
+
+## Enums
+
+# Genre (ACTION, COMEDY, DRAMA, HORROR, SCIFI, OTHER)
+enum Genre {
+    ACTION
+    COMEDY
+    DRAMA
+    HORROR
+    SCIFI
+    OTHER
+}
+
+
+## Queries
+
+type Query {
+    # Movie by ID
+    movie(id: ID!): Movie!
+    # Movies by genre and average rating
+    movies(genre: Genre, averageRating: averageRating): [Movie!]!
+    # Users
+    users: [User!]!
+}
+
+
+## Mutations
+
+type Mutation {
+    # Add movie (parameters: title, genre, duration in minutes)
+    addMovie(
+        title: String!
+        genre: Genre!
+        durationInMinutes: Int!
+    )
+}
+
+
+
+### Part II ###
+
+## Write the following queries:
+
+# Get the titles of all movies
+
+# Get a movie by ID
+
+# Get all action movies with an average rating of 4.0
+
+# Get all users with their favourite movies
+
+# Write a mutation to add the film Inception (science-fiction, 148 minutes).
